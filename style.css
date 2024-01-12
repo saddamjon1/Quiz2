@@ -1,0 +1,367 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.field {
+  max-width: 100%;
+  margin: 0 auto;
+ 
+}
+header {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  width: 100%;
+  height: 100px;
+  flex-shrink: 0;
+  background: #f1eded;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 40px;
+}
+.container h1 {
+  color: #f101e8;
+  font-family: Poppins sans-serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.container p {
+  color: #000;
+  text-align: center;
+  font-family: Poppins sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin: 15px;
+}
+.lonk {
+  width: 434px;
+  height: 483px;
+  border-radius: 20px;
+  background: #7a66bf;
+  margin: 0 auto;
+  padding: 15px;
+ 
+}
+.div {
+  width: 400px;
+  height: 80px;
+  flex-shrink: 0;
+  border-radius: 10px 10px 0px 0px;
+  background: #f1eded;
+}
+.div p {
+  color: #5b5a5a;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding: 15px;
+}
+.lonk h2 {
+  color: #fff;
+  font-family: Poppins sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-align: center;
+  
+}
+.logo {
+  width: 400px;
+  height: 30px;
+  flex-shrink: 0;
+  border-radius: 0px 0px 10px 10px;
+  background: #989898;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  
+ 
+}
+.logo p{
+    color: #FFF;
+font-family: Poppins sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-align: center;
+}
+.logo1{
+    width: 400px;
+height: 50px;
+flex-shrink: 0;
+border-radius: 10px;
+background: #D9D9D9;
+margin-top: 15px;
+padding: 3px;
+}
+.logo2{
+display: flex;
+align-items: center;
+justify-content: center;
+padding: 2px;
+gap: 3px;
+}
+.hol p{
+    color: #5B5A5A;
+font-family: Poppins sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding: 10px 10px;
+}
+.hol{
+    width: 329px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 7px;
+background: #FFF;
+}
+.logo4{
+    width: 400px;
+height: 50px;
+flex-shrink: 0;
+border-radius: 10px;
+background: #989898;
+margin-top: 15px;
+}
+.em{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo4 .em p{
+    color: #FFF;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding: 15px;
+}
+.logo5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    padding: 10px;
+}
+.lonk7 {
+    width: 434px;
+    height: 483px;
+    border-radius: 20px;
+    background:  20px;
+    background:  #F101E8;
+    margin: 0 auto;
+    padding: 15px;
+   
+  }
+  .div3 {
+    width: 400px;
+    height: 80px;
+    flex-shrink: 0;
+    border-radius: 10px 10px 0px 0px;
+    background: #f1eded;
+  }
+  .div3 p {
+    color: #5b5a5a;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding: 15px;
+  }
+  .lonk7 h2 {
+    color: #fff;
+    font-family: Poppins sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+    
+  }
+  .log1o {
+    width: 400px;
+    height: 30px;
+    flex-shrink: 0;
+    border-radius: 0px 0px 10px 10px;
+    background: #989898;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    
+   
+  }
+  .log1o p{
+      color: #FFF;
+  font-family: Poppins sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-align: center;
+  }
+  .log1o1{
+      width: 400px;
+  height: 50px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background: #D9D9D9;
+  margin-top: 15px;
+  padding: 3px;
+  }
+  .log1o2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2px;
+  gap: 3px;
+  }
+  .hol1 p{
+      color: #5B5A5A;
+  font-family: Poppins sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding: 10px 10px;
+  }
+  .hol1{
+      width: 329px;
+      height: 40px;
+      flex-shrink: 0;
+      border-radius: 7px;
+  background: #FFF;
+  }
+  .log7o4{
+      width: 400px;
+  height: 50px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background: #989898;
+  margin-top: 15px;
+  }
+  .em1{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+  .log7o4 .em1 p{
+      color: #FFF;
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding: 15px;
+  }
+  .log7o5{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 15px;
+      padding: 10px;
+  }
+  .mink{
+    margin-top: 15px;
+    padding: 15px;
+    margin: 
+    15px;
+  }
+  .lonk15 {
+    width: 434px;
+    height: 483px;
+    border-radius: 20px;
+    background:#73DEDE;;
+    margin: 0 auto;
+    padding: 15px;
+   
+  }
+  .lonk15 h2 {
+    color: #fff;
+    font-family: Poppins sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+    
+  }  
+  .minl7{
+    width: 450px;
+height: 50px;
+flex-shrink: 0;
+border-radius: 20px;
+background: #989898;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+margin: 0 auto;margin-top:30px ;
+padding: 15px;
+  }
+  .minl7{
+    color: #FFF;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-align: center;
+  }
+  .I{
+    width: 450px;
+height: 75px;
+flex-shrink: 0;
+border-radius: 20px;
+background: #F101E8;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+margin: 0 auto;
+margin-top: 85px;
+padding: 25px;
+  }
+  .I h2{
+    color: #FFF;
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-align: center;
+  }
+  footer{
+    width: 100%;
+height: 177px;
+flex-shrink: 0;
+background: #F1EDED;
+margin-top: 66px;
+  }
+  .fi{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+ 
+    padding: 15px;
+  }
+  .text{
+    text-align: center;
+    padding: 15px;
+  }
